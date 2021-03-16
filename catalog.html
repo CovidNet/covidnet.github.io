@@ -12,8 +12,7 @@ layout: default
 	<ul>
 	  {% for term in site.data.Germanterms %}
 	    <li>
-	      <h2>{{ term.synset }}</h2>
-	      <p>{{ term.ID }}</p>
+	      <h2><a href="{{term.url}}">{{ term.synset }}</a></h2>
 	    </li>
 	  {% endfor %}
 	</ul>
