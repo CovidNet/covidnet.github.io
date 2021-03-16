@@ -12,8 +12,8 @@ layout: default
 	<ul>
 	  {% for term in site.data.Germanterms %}
 	    <li>
-	      <h3>{{ term.synset }}</a></h3>
-		<p>{{ term.description }}</p>
+	      <h3>{{ term.synset }} {{ term.word type }}</a></h3>
+		<p>{{ term.definition }}</p>
 	    </li>
 	  {% endfor %}
 	</ul>
