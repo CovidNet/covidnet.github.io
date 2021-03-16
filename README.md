@@ -38,7 +38,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 <ul>
-  {% for term in site.GermanTerms %}
+  {% for term in site.data.GermanTerms %}
     <li>
       <h2>{{ term.synset }}</h2>
       <p>{{ term.ID }}</p>
