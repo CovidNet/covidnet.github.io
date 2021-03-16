@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<ul>
+  {% for term in site.data.GermanTerms %}
+    <li>
+      <h2>{{ term.synset }}</h2>
+      <p>{{ term.ID }}</p>
+    </li>
+  {% endfor %}
+</ul>
