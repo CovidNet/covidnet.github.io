@@ -1,0 +1,26 @@
+ID,synset,word type,definition,translations,hypernym,hyponym,website
+de-001,AHA-Regel,(n),"acronym for rule for how to behave in general: Abstand halten, Hygieneregeln beachten und Alltagsmasken tragen.",,de-020,de-007,https://www.bundesregierung.de/breg-de/suche/spahn-zu-feiern-1777386
+de-003,COVID-19,(n),name of the disease caused by SARS-CoV-2,es-002,,,https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Steckbrief.html
+de-004,SARS-CoV-2,(n),SARS-CoV-2 (severe acute respiratory syndrome coronavirus type 2),es-001,,de-005,https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Steckbrief.html
+de-005,"Variante, Mutation",(n),"variant, mutation of SARS-CoV-2",fi-005,de-004,,https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Steckbrief.html
+de-006,asymptomatisch,(a),showing no symptom of COVID-19 while being infected,"es-008, fi-014",,,https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Steckbrief.html
+de-007,"AHA + L-Regel, AHA-plus-L-Regeln",(n),extended AHA-Regel to include venting rooms as well,,de-001,,https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Steckbrief.html
+de-009,Mund-Nasen-Bedeckung,(n),General covering of the mouth and nose to minimize the output of spit particles,,de-013,,https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Steckbrief.html
+de-011,Mund-Nasen-Schutz,(n),Protection for mouth and nose in order to filter inhaled and exhaled air,,de-013,,https://www.bundesregierung.de/breg-de/suche/homeoffice-regelung-gilt-weiter-1873622
+de-012,Atemschutzmaske,(n),professional protection for filtering air intake to protect the user from air-borne harmful substances,,de-013,,https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Steckbrief.html
+de-013,Maske,(n),"general term of a mask, used as a cover term for all sorts of face covers to minimize spread of SARS-CoV-2","fi-041, es-026",,"de-009, de-010, de-011, de-012",https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Steckbrief.html
+de-014,PCR-Test,(n),test for (partial) DNA found in SARS-CoV-2,es-028,,,
+de-015,Schnelltest,(n),quick test for proteins found in SARS-CoV-2,es-027,,,https://www.bundesregierung.de/breg-de/suche/aktuelle-corona-lage-1876204
+de-016,Maßnahmen,(n),general measures which are employed to minimize the spread of SARS-CoV-2,fi-004,,,https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Projekte_RKI/Wirksamkeit_NPIs.html
+de-017,Schutzmaßnahmen,(n),measures to protect against SARS-CoV-2,,de-016,"de-019, de-024, de-026",https://www.rki.de/DE/Content/Infekt/EpidBull/Archiv/2020/19/Art_02.html
+de-018,Selbsttest,(n),test for self application and evaluation purposes for SARS-CoV-2,,,,https://www.bundesregierung.de/breg-de/suche/aktuelle-corona-lage-1876204
+de-019,Hygienemaßnahmen,(n),measures for hygiene to minimize the spread of SARS-CoV-2,,de-017,de-021,https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Reinigung_Desinfektion.html
+de-020,Hygieneregeln,(n),general rules for hygiene to minimize the spread of SARS-CoV-2,,,"de-025, de-001, de-002",
+de-021,Händehygiene,(n),rules for desinfecting hands to minimize the spread of SARS-CoV-2,,de-019,,https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Reinigung_Desinfektion.html
+de-023,Risikogruppen,(n),groups of people who are especially voulnerable to suffer from a severe case of COVID-19,"es-024, fi-047",,,https://www.bundesregierung.de/breg-de/themen/coronavirus/coronavirus-impfung-faq-1788988
+de-024,Quarantäne,(n),many forms of (self-) isolation with the goal to minimize contact between people for preventing the spread of SARS-CoV-2,"es-025, fi-030, fi-031, fi-032",de-017,,https://www.bundesregierung.de/breg-de/themen/coronavirus/was-bei-haeuslicher-quarantaene-wichtig-ist-1730314
+de-025,Husten- und Nies-Etikette,(n),rules for coughing and sneezing to prevent the spread of SARS-CoV-2,,de-020,,https://www.bundesregierung.de/breg-de/themen/coronavirus/was-bei-haeuslicher-quarantaene-wichtig-ist-1730314
+de-026,Impfung,(n),"the administration of a vaccine to help the immune system develop protection from a disease, especially SARS-CoV-2 in this context",es-015,de-017,,
+de-027,Tröpcheninfektion,(n),the spreading of a disease by means of exhaled droplets from person to person,fi-006,,,
+de-028,Abstand,(n),the distance (1.5m) to keep between people in public (for example in supermarkets),"fi-043, es-007",,,
+de-029,Ausnahmezustand,(n),"general, extraordinary times due to COVID-19","fi-033, es-029",,,
