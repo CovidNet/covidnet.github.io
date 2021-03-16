@@ -1,4 +1,5 @@
 theme: jekyll-theme-tactile
 collections:
  data:
-  ouput: true
+  Germanterms:
+   ouput: true
