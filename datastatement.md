@@ -27,7 +27,7 @@ The words selected for this resource are taken from Mexican, Finnish and German 
  
 ## C. SPEAKER DEMOGRAPHIC
 
----
+-N/A-
  
 ## D. ANNOTATOR DEMOGRAPHIC
 
@@ -55,15 +55,15 @@ The texts vary in length. Nouns are hand-picked, not influenced by statistical m
 
 ## G. RECORDING QUALITY
 
----
+-N/A-
 
 ## H. OTHER
 
----
+-N/A-
 
 ## I. PROVENANCE APPENDIX
 
----
+-N/A-
 
 ## About this document
 
