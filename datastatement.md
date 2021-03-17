@@ -13,6 +13,8 @@ Data set name: CovidNet - a multilingual word net for COVID-19 government commun
 
 Citation: - 
 
+Available at: [CovidNet](https://covidnet.github.io)
+
 Data set developer(s): José Daniel Gutiérrez Nieto, Rosa-Maria Kristiina Ryhänen, Maximilian Gutsche
 
 Data statement author(s): José Daniel Gutiérrez Nieto, Rosa-Maria Kristiina Ryhänen, Maximilian Gutsche
@@ -50,32 +52,30 @@ The words selected for this resource are taken from Mexican, Finnish and German 
 
 ## E. SPEECH SITUATION
 
-> *Explanation.* Characteristics of the speech situation can affect linguistic structure and patterns at many levels. The intended audience of a linguistic performance can also affect linguistic choices on the part of speakers. The time and place provide broader context for understanding how the texts collected relate to their historical moment and should also be made evident in the data statement. Specifications include:
-
-* Description: 
-* Time: 
-* Place: 
-* Modality (spoken/signed, written): 
-* Scripted/edited vs. spontaneous: 
-* Synchronous vs. asynchronous interaction: 
-* Intended audience: 
+* Description: Nouns collected from written government communication about COVID-19
+* Time: 03/2021
+* Place: Donostia - San Sebastán, Spain
+* Modality (spoken/signed, written): written
+* Scripted/edited vs. spontaneous: scripted
+* Synchronous vs. asynchronous interaction: asynchronous
+* Intended audience: general public
 
 ## F. TEXT CHARACTERISTICS
 
 > *Explanation.* Both genre and topic influence the vocabulary and structural characteristics of texts (Biber, 1995), and should be specified.
+The texts vary in length. Nouns are hand-picked, not influenced by statistical measures. The topic is COVID-19.
 
 ## G. RECORDING QUALITY
 
-> *Explanation.* For data that include audiovisual recordings, indicate the quality of the recording equipment and any aspects of the recording situation that could impact recording quality.
+---
 
 ## H. OTHER
 
-> *Explanation.* There may be other information of relevance as well. Please use this space to develop any further categories that are relevant for your dataset. 
+
 
 ## I. PROVENANCE APPENDIX
 
-> *Explanation.* For datasets built out of existing datasets, the data statements for the source datasets should be included as an appendix.
-
+---
 
 ## About this document
 
