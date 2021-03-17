@@ -1,14 +1,5 @@
 # Data Statement for CovidNet
 
-> **How to use this document:**
-> Fill in each section according to the instructions. Give as much detail as you can, but there's no need to extrapolate. The goal is to help people understand your data when they approach it. This could be someone looking at it in ten years, or it could be you yourself looking back at the data in two years.
-
-> For full details, the best source is the original Data Statements paper, here: https://www.aclweb.org/anthology/Q18-1041/ .
-
-> Instruction fields are given as blockquotes; delete the instructions when you're done, and provide the file with your data, for example as "DATASTATEMENT.md". The lists in some blocks are designed to be filled in, but it's good to also leave a written description of what's happening, as well as the list. It's fine to skip some fields if the information isn't known.
-
-> Only blockquoted content should be deleted; the final about statement should be left intact.
-
 Data set name: CovidNet - a multilingual word net for COVID-19 government communication
 
 Citation: - 
@@ -22,8 +13,6 @@ Data statement author(s): José Daniel Gutiérrez Nieto, Rosa-Maria Kristiina Ry
 Others who contributed to this document: - 
 
 ## A. CURATION RATIONALE 
-
-> *Explanation.* Which texts were included and what were the goals in selecting texts, both in the original collection and in any further sub-selection? This can be especially important in datasets too large to thoroughly inspect by hand. An explicit statement of the curation rationale can help dataset users make inferences about what other kinds of texts systems trained with them could conceivably generalize to.
 
 The words selected for this resource are taken from Mexican, Finnish and German goverment texts. These texts were manually searched on government websites. In choosing texts, the main focus was put on general communication in different fields of the topic of COVID-19 (masks, rules, recommendations,...). Some terms were specifically searched for in search functions of the websites. 
 
@@ -62,7 +51,6 @@ The words selected for this resource are taken from Mexican, Finnish and German 
 
 ## F. TEXT CHARACTERISTICS
 
-> *Explanation.* Both genre and topic influence the vocabulary and structural characteristics of texts (Biber, 1995), and should be specified.
 The texts vary in length. Nouns are hand-picked, not influenced by statistical measures. The topic is COVID-19.
 
 ## G. RECORDING QUALITY
@@ -71,7 +59,7 @@ The texts vary in length. Nouns are hand-picked, not influenced by statistical m
 
 ## H. OTHER
 
-
+---
 
 ## I. PROVENANCE APPENDIX
 
