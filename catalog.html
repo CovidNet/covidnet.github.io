@@ -10,10 +10,9 @@ layout: default
   </head>
   <body>
 	<ul>
-	  {% for term in site.data.Germanterms %}
+	  {% for synset in site.data.synsets %}
 	    <li>
-	      <h3>{{ term.synset }} {{ term.word type }}</a></h3>
-		<p>{{ term.definition }}</p>
+	      <h3><a href="{{ synset.url }}"{{ synset.synset }} {{ synset.word type }}</a></h3>
 	    </li>
 	  {% endfor %}
 	</ul>
