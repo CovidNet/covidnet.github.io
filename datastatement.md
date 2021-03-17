@@ -14,16 +14,16 @@ Others who contributed to this document: -
 
 ## A. CURATION RATIONALE 
 
-The words selected for this resource are taken from Mexican, Finnish and German goverment texts. These texts were manually searched on government websites. In choosing texts, the main focus was put on general communication in different fields of the topic of COVID-19 (masks, rules, recommendations,...). Some terms were specifically searched for in search functions of the websites. 
+The words selected for this resource are taken from Mexican, Finnish and German goverment texts. These texts were manually searched on government websites. In choosing texts, the main focus was put on relevant terms of general communication in different fields of the topic of COVID-19 (masks, rules, recommendations,...). Some terms were specifically searched for in search functions of the websites. Generally, each annotator applied their own idea of what terms are relevant based on the impression gained from the government communication which was read.
 
 ## B. LANGUAGE VARIETY/VARIETIES
 
 * BCP-47 language tag: de-DE
-* Language variety description: formal/scientific language
+* Language variety description: scientific language
 * BCP-47 language tag: es-MX
-* Language variety description: formal/simple language
+* Language variety description: simple language
 * BCP-47 language tag: fi-FI
-* Language variety description: formal/simple language
+* Language variety description: simple language
  
 ## C. SPEAKER DEMOGRAPHIC
 
@@ -45,13 +45,13 @@ The words selected for this resource are taken from Mexican, Finnish and German 
 * Time: 03/2021
 * Place: Donostia - San Sebastán, Spain
 * Modality (spoken/signed, written): written
-* Scripted/edited vs. spontaneous: scripted
+* Scripted/edited vs. spontaneous: edited
 * Synchronous vs. asynchronous interaction: asynchronous
 * Intended audience: general public
 
 ## F. TEXT CHARACTERISTICS
 
-The texts vary in length. Nouns are hand-picked, not influenced by statistical measures. The topic is COVID-19.
+The texts vary in length. Nouns are hand-picked, not influenced by statistical measures. The topic is COVID-19. The language used in the texts is formal.
 
 ## G. RECORDING QUALITY
 
