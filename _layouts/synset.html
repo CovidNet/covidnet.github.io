@@ -3,5 +3,9 @@ title: page.synset
 layout: default
 ---
 
-<h1>{{page.synset}}</h1>
-
+<h1>{{page.synset}} <em>{{ page.word type }}</em></h1>
+<p>{{ page.content }}</p>
+<br>
+<ul>
+	<li><a href="{{ page }}"{{}}</li>
+</ul>
