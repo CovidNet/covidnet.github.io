@@ -32,7 +32,7 @@ The words selected for this resource are taken from Mexican, Finnish and German 
 ## D. ANNOTATOR DEMOGRAPHIC
 
 * Description: Master Students of Language and Communication Technologies / Language Analysis and Processing
-* Age: 25-28
+* Age: 24-28
 * Gender: male/female
 * Race/ethnicity (according to locally appropriate categories): 
 * First language(s): Spanish, Finnish, German
@@ -43,7 +43,7 @@ The words selected for this resource are taken from Mexican, Finnish and German 
 
 * Description: Nouns collected from written government communication about COVID-19
 * Time: 03/2021
-* Place: Donostia - San Sebastán, Spain
+* Place: Donostia - San Sebastián, Spain
 * Modality (spoken/signed, written): written
 * Scripted/edited vs. spontaneous: edited
 * Synchronous vs. asynchronous interaction: asynchronous
