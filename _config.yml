@@ -3,5 +3,3 @@ collections:
  synsets:
   output: true
   sort_by: synset
- Germanterms:
-  sort_by: synset
