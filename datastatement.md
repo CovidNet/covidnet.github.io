@@ -1,4 +1,4 @@
-# Data Statement for XX
+# Data Statement for CovidNet
 
 > **How to use this document:**
 > Fill in each section according to the instructions. Give as much detail as you can, but there's no need to extrapolate. The goal is to help people understand your data when they approach it. This could be someone looking at it in ten years, or it could be you yourself looking back at the data in two years.
@@ -9,50 +9,43 @@
 
 > Only blockquoted content should be deleted; the final about statement should be left intact.
 
-Data set name: XX
+Data set name: CovidNet - a multilingual word net for COVID-19 government communication
 
-Citation (if available):
+Citation: - 
 
-Data set developer(s): 
+Data set developer(s): José Daniel Gutiérrez Nieto, Rosa-Maria Kristiina Ryhänen, Maximilian Gutsche
 
-Data statement author(s):
+Data statement author(s): José Daniel Gutiérrez Nieto, Rosa-Maria Kristiina Ryhänen, Maximilian Gutsche
 
-Others who contributed to this document:
+Others who contributed to this document: - 
 
 ## A. CURATION RATIONALE 
 
 > *Explanation.* Which texts were included and what were the goals in selecting texts, both in the original collection and in any further sub-selection? This can be especially important in datasets too large to thoroughly inspect by hand. An explicit statement of the curation rationale can help dataset users make inferences about what other kinds of texts systems trained with them could conceivably generalize to.
 
+The words selected for this resource are taken from Mexican, Finnish and German goverment texts. These texts were manually searched on government websites. In choosing texts, the main focus was put on general communication in different fields of the topic of COVID-19 (masks, rules, recommendations,...). Some terms were specifically searched for in search functions of the websites. 
+
 ## B. LANGUAGE VARIETY/VARIETIES
 
-> *Explanation.* Languages differ from each other in structural ways that can interact with NLP algorithms. Within a language, regional or social dialects can also show great variation (Chambers and Trudgill, 1998). The language and language variety should be described with a language tag from BCP-47 identifying the language variety (e.g., en-US or yue-Hant-HK), and a prose description of the language variety, glossing the BCP-47 tag and also providing further information (e.g., "English as spoken in Palo Alto, California", or "Cantonese written with traditional characters by speakers in Hong Kong who are bilingual in Mandarin").
-
-* BCP-47 language tag: 
-* Language variety description: 
-
+* BCP-47 language tag: de-DE
+* Language variety description: formal/scientific language
+* BCP-47 language tag: es-MX
+* Language variety description: formal/simple language
+* BCP-47 language tag: fi-FI
+* Language variety description: formal/simple language
+ 
 ## C. SPEAKER DEMOGRAPHIC
 
-> *Explanation.* Sociolinguistics has found that variation (in pronunciation, prosody, word choice, and grammar) correlates with speaker demographic characteristics (Labov, 1966), as speakers use linguistic variation to construct and project identities (Eckert and Rickford, 2001). Transfer from native languages (L1) can affect the language produced by non-native (L2) speakers (Ellis, 1994, Ch. 8). A further important type of variation is disordered speech (e.g., dysarthria). Specifications include: 
-
-* Description: 
-* Age: 
-* Gender: 
-* Race/ethnicity (according to locally appropriate categories): 
-* First language(s): 
-* Socioeconomic status: 
-* Number of different speakers represented: 
-* Presence of disordered speech: 
+---
  
 ## D. ANNOTATOR DEMOGRAPHIC
 
-> *Explanation.* What are the demographic characteristics of the annotators and annotation guideline developers? Their own “social address” influences their experience with language and thus their perception of what they are annotating. Specifications include:
-
-* Description: 
-* Age: 
-* Gender: 
+* Description: Master Students of Language and Communication Technologies / Language Analysis and Processing
+* Age: 25-28
+* Gender: male/female
 * Race/ethnicity (according to locally appropriate categories): 
-* First language(s): 
-* Training in linguistics/other relevant discipline: 
+* First language(s): Spanish, Finnish, German
+* Training in linguistics: yes
 
 
 ## E. SPEECH SITUATION
