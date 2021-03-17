@@ -10,7 +10,7 @@ Data set developer(s): José Daniel Gutiérrez Nieto, Rosa-Maria Kristiina Ryhä
 
 Data statement author(s): José Daniel Gutiérrez Nieto, Rosa-Maria Kristiina Ryhänen, Maximilian Gutsche
 
-Others who contributed to this document: - 
+Others who contributed to this document: Itziar Gonzalez Dios
 
 ## A. CURATION RATIONALE 
 
