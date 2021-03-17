@@ -5,10 +5,3 @@ collections:
   sort_by: synset
  Germanterms:
   sort_by: synset
-
-defaults:
- scope:
-  path: ""
-  type: "synsets"
- values:
-  layout: "synset"
