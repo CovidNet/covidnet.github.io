@@ -1,88 +1,69 @@
-# Data Statement for XX
+# Data Statement for CovidNet
 
-> **How to use this document:**
-> Fill in each section according to the instructions. Give as much detail as you can, but there's no need to extrapolate. The goal is to help people understand your data when they approach it. This could be someone looking at it in ten years, or it could be you yourself looking back at the data in two years.
+Data set name: CovidNet - a multilingual word net for COVID-19 government communication
 
-> For full details, the best source is the original Data Statements paper, here: https://www.aclweb.org/anthology/Q18-1041/ .
+Citation: - 
 
-> Instruction fields are given as blockquotes; delete the instructions when you're done, and provide the file with your data, for example as "DATASTATEMENT.md". The lists in some blocks are designed to be filled in, but it's good to also leave a written description of what's happening, as well as the list. It's fine to skip some fields if the information isn't known.
+Available at: [CovidNet](https://covidnet.github.io)
 
-> Only blockquoted content should be deleted; the final about statement should be left intact.
+Data set developer(s): José Daniel Gutiérrez Nieto, Rosa-Maria Kristiina Ryhänen, Maximilian Gutsche
 
-Data set name: XX
+Data statement author(s): José Daniel Gutiérrez Nieto, Rosa-Maria Kristiina Ryhänen, Maximilian Gutsche
 
-Citation (if available):
-
-Data set developer(s): 
-
-Data statement author(s):
-
-Others who contributed to this document:
+Others who contributed to this document: Itziar Gonzalez Dios
 
 ## A. CURATION RATIONALE 
 
-> *Explanation.* Which texts were included and what were the goals in selecting texts, both in the original collection and in any further sub-selection? This can be especially important in datasets too large to thoroughly inspect by hand. An explicit statement of the curation rationale can help dataset users make inferences about what other kinds of texts systems trained with them could conceivably generalize to.
+The words selected for this resource are taken from Mexican, Finnish and German goverment texts. These texts were manually searched on government websites. In choosing texts, the main focus was put on relevant terms of general communication in different fields of the topic of COVID-19 (masks, rules, recommendations,...). Some terms were specifically searched for in search functions of the websites. Generally, each annotator applied their own idea of what terms are relevant based on the impression gained from the government communication which was read.
 
 ## B. LANGUAGE VARIETY/VARIETIES
 
-> *Explanation.* Languages differ from each other in structural ways that can interact with NLP algorithms. Within a language, regional or social dialects can also show great variation (Chambers and Trudgill, 1998). The language and language variety should be described with a language tag from BCP-47 identifying the language variety (e.g., en-US or yue-Hant-HK), and a prose description of the language variety, glossing the BCP-47 tag and also providing further information (e.g., "English as spoken in Palo Alto, California", or "Cantonese written with traditional characters by speakers in Hong Kong who are bilingual in Mandarin").
-
-* BCP-47 language tag: 
-* Language variety description: 
-
+* BCP-47 language tag: de-DE
+* Language variety description: scientific language
+* BCP-47 language tag: es-MX
+* Language variety description: simple language
+* BCP-47 language tag: fi-FI
+* Language variety description: simple language
+ 
 ## C. SPEAKER DEMOGRAPHIC
 
-> *Explanation.* Sociolinguistics has found that variation (in pronunciation, prosody, word choice, and grammar) correlates with speaker demographic characteristics (Labov, 1966), as speakers use linguistic variation to construct and project identities (Eckert and Rickford, 2001). Transfer from native languages (L1) can affect the language produced by non-native (L2) speakers (Ellis, 1994, Ch. 8). A further important type of variation is disordered speech (e.g., dysarthria). Specifications include: 
-
-* Description: 
-* Age: 
-* Gender: 
-* Race/ethnicity (according to locally appropriate categories): 
-* First language(s): 
-* Socioeconomic status: 
-* Number of different speakers represented: 
-* Presence of disordered speech: 
+-N/A-
  
 ## D. ANNOTATOR DEMOGRAPHIC
 
-> *Explanation.* What are the demographic characteristics of the annotators and annotation guideline developers? Their own “social address” influences their experience with language and thus their perception of what they are annotating. Specifications include:
-
-* Description: 
-* Age: 
-* Gender: 
+* Description: Master Students of Language and Communication Technologies / Language Analysis and Processing
+* Age: 24-28
+* Gender: male/female
 * Race/ethnicity (according to locally appropriate categories): 
-* First language(s): 
-* Training in linguistics/other relevant discipline: 
+* First language(s): Spanish, Finnish, German
+* Training in linguistics: yes
 
 
 ## E. SPEECH SITUATION
 
-> *Explanation.* Characteristics of the speech situation can affect linguistic structure and patterns at many levels. The intended audience of a linguistic performance can also affect linguistic choices on the part of speakers. The time and place provide broader context for understanding how the texts collected relate to their historical moment and should also be made evident in the data statement. Specifications include:
-
-* Description: 
-* Time: 
-* Place: 
-* Modality (spoken/signed, written): 
-* Scripted/edited vs. spontaneous: 
-* Synchronous vs. asynchronous interaction: 
-* Intended audience: 
+* Description: Nouns collected from written government communication about COVID-19
+* Time: 03/2021
+* Place: Donostia - San Sebastián, Spain
+* Modality (spoken/signed, written): written
+* Scripted/edited vs. spontaneous: edited
+* Synchronous vs. asynchronous interaction: asynchronous
+* Intended audience: general public
 
 ## F. TEXT CHARACTERISTICS
 
-> *Explanation.* Both genre and topic influence the vocabulary and structural characteristics of texts (Biber, 1995), and should be specified.
+The texts vary in length. Nouns are hand-picked, not influenced by statistical measures. The topic is COVID-19. The language used in the texts is formal.
 
 ## G. RECORDING QUALITY
 
-> *Explanation.* For data that include audiovisual recordings, indicate the quality of the recording equipment and any aspects of the recording situation that could impact recording quality.
+-N/A-
 
 ## H. OTHER
 
-> *Explanation.* There may be other information of relevance as well. Please use this space to develop any further categories that are relevant for your dataset. 
+CovidNet provides relations between nouns as well as definitions. These defintions are generated by the annotators and may therefore be subjective according to their language use.
 
 ## I. PROVENANCE APPENDIX
 
-> *Explanation.* For datasets built out of existing datasets, the data statements for the source datasets should be included as an appendix.
-
+-N/A-
 
 ## About this document
 
