@@ -3,9 +3,8 @@ title: page.synset
 layout: default
 ---
 {% assign trans_list = page.translations | split: "," %}
-{% assign hyper_list = page.hypernyms | split: "," %}
-{% assign hypo_list = page.hyponyms | split: "," %}
-
+{% assign hyper_list = page.hypernym | split: "," %}
+{% assign hypo_list = page.hyponym | split: "," %}
 
 <h1>{{ page.synset }} <em>{{ page.word_type }}</em></h1>
 <p>{{ page.content }}</p>
@@ -29,10 +28,12 @@ layout: default
 <h2>Hyponyms</h2>
 {% for hypo in hypo_list %}
 	{% for hypo_synset in site.synsets %}
-		{% if hypo_synset.sid == trans %}
+		{% if hypo_synset.sid == hypo %}
 			<p><a href="{{ hypo_synset.url }}">{{ hypo_synset.synset }}</a></p>
 		{% endif %}
 	{% endfor %}
 {% endfor %}
 <br>
+<br>
+<a href="../catalog">Catalog</a>
 
