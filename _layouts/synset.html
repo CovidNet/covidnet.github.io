@@ -2,9 +2,9 @@
 title: page.synset
 layout: default
 ---
-{% assign trans_list = page.translations | split: "," %}
-{% assign hyper_list = page.hypernym | split: "," %}
-{% assign hypo_list = page.hyponym | split: "," %}
+{% assign trans_list = page.translations | split: ", " %}
+{% assign hyper_list = page.hypernym | split: ", " %}
+{% assign hypo_list = page.hyponym | split: ", " %}
 
 <h1>{{ page.synset }} <em>{{ page.word_type }}</em></h1>
 <p>{{ page.content }}</p>
@@ -13,7 +13,7 @@ layout: default
 {% for trans in trans_list %}
 	{% for trans_synset in site.synsets %}
 		{% if trans_synset.sid == trans %}
-			<p><a href="{{ trans_synset.url }}">{{ trans_synset.synset }}</a></p>
+			<p><a href="{{ trans_synset.url }}">{{ trans_synset.synset }} <em>({{ trans_synset.sid }})</em></a></p>
 		{% endif %}
 	{% endfor %}
 {% endfor %}
@@ -35,5 +35,8 @@ layout: default
 {% endfor %}
 <br>
 <br>
+
 <a href="../catalog">Catalog</a>
+<br>
+<a href="../../">Home</a>
 
