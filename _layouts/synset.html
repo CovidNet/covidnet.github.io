@@ -2,8 +2,37 @@
 title: page.synset
 layout: default
 ---
+{% assign trans_list = page.translations | split: "," %}
+{% assign hyper_list = page.hypernyms | split: "," %}
+{% assign hypo_list = page.hyponyms | split: "," %}
+
 
 <h1>{{ page.synset }} <em>{{ page.word_type }}</em></h1>
 <p>{{ page.content }}</p>
+
+<h2>Translations</h2>
+{% for trans in trans_list %}
+	{% for trans_synset in site.synsets %}
+		{% if trans_synset.sid == trans %}
+			<p><a href="{{ trans_synset.url }}">{{ trans_synset.synset }}</a></p>
+		{% endif %}
+	{% endfor %}
+{% endfor %}
+<h2>Hypernyms</h2>
+{% for hyper in hyper_list %}
+	{% for hyper_synset in site.synsets %}
+		{% if hyper_synset.sid == hyper %}
+			<p><a href="{{ hyper_synset.url }}">{{ hyper_synset.synset }}</a></p>
+		{% endif %}
+	{% endfor %}
+{% endfor %}
+<h2>Hyponyms</h2>
+{% for hypo in hypo_list %}
+	{% for hypo_synset in site.synsets %}
+		{% if hypo_synset.sid == trans %}
+			<p><a href="{{ hypo_synset.url }}">{{ hypo_synset.synset }}</a></p>
+		{% endif %}
+	{% endfor %}
+{% endfor %}
 <br>
 
