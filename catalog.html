@@ -2,6 +2,8 @@
 title: catalog
 layout: default
 ---
+{% assign synsets_sorted = site.synsets | sort_natural: "synset" %}
+
 <!doctype html>
 <html>
   <head>
@@ -9,12 +11,46 @@ layout: default
     <title>{{ page.title }}</title>
   </head>
   <body>
-	<ul>
-	  {% for synset in site.synsets %}
-	    <li>
-	      <a href="{{ synset.url }}">{{ synset.synset }} {{ synset.word_type }}</a>
-	    </li>
-	  {% endfor %}
-	</ul>
+	<details>
+		<summary>Spanish</summary>
+			
+			<ul>
+			  {% for synset in synsets_sorted %}
+				{% if synset.sid contains "es" %}
+				    <li>
+				      <a href="{{ synset.url }}">{{ synset.synset }} {{ synset.word_type }}</a>
+				    </li>
+				{% endif%}
+			  {% endfor %}
+			</ul>
+	</details>
+
+	<details>
+		<summary>Finnish</summary>
+			
+			<ul>
+			  {% for synset in synsets_sorted %}
+				{% if synset.sid contains "fi" %}
+				    <li>
+				      <a href="{{ synset.url }}">{{ synset.synset }} {{ synset.word_type }}</a>
+				    </li>
+				{% endif%}
+			  {% endfor %}
+			</ul>
+	</details>
+
+	<details>
+		<summary>German</summary>
+			
+			<ul>
+			  {% for synset in synsets_sorted %}
+				{% if synset.sid contains "de" %}
+				    <li>
+				      <a href="{{ synset.url }}">{{ synset.synset }} {{ synset.word_type }}</a>
+				    </li>
+				{% endif%}
+			  {% endfor %}
+			</ul>
+	</details>
  </body>
 </html>
