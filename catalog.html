@@ -12,7 +12,8 @@ layout: default
 	<ul>
 	  {% for synset in site.synsets %}
 	    <li>
-	      <h3><a href="{{ synset.url }}">{{ synset.synset }} {{ synset.word_type }}</a></h3>
+	      <!--<h3><a href="{{ synset.url }}">{{ synset.synset }} {{ synset.word_type }}</a></h3>-->
+		<h3>{{ synset.synset }} {{ synset.word_type }}</h3>
 	    </li>
 	  {% endfor %}
 	</ul>
