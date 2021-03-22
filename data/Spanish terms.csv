@@ -1,0 +1,39 @@
+ID,synset,wordtype,definition,translations,hypernym,hyperonymy,website
+es-000,coronavirus,N,"Los coronavirus son una familia de virus que causan enfermedades (desde 
+el resfriado común hasta enfermedades respiratorias más graves) y 
+circulan entre humanos y animales.",,,es-001,https://coronavirus.gob.mx/covid-19/
+es-001,"SARS-COV2, SARS-COV-2",N,"Coronavirus-2 del Síndrome Respiratorio Agudo Grave, que apareció en China en diciembre pasado y provoca una enfermedad llamada 
+COVID-19, que se extendió por el mundo y fue declarada pandemia global 
+por la Organización Mundial de la Salud.",de-004,es-000,,https://coronavirus.gob.mx/covid-19/
+es-002,COVID-19,N,Nombre  oficial  de  la  enfermedad  que  está  causando  el  brote  del  nuevo coronavirus 2019.,de-003,es-021,,https://coronavirus.gob.mx/covid-19/
+es-003,fiebre,N,Fenómeno patológico que se manifiesta por elevación de la temperatura normal del cuerpo y mayor frecuencia del pulso y la respiración.,,,,https://coronavirus.gob.mx/covid-19/
+es-004,automedicarse,V,Tomar un medicamento o seguir un tratamiento por iniciativa propia.,,es-006,,https://coronavirus.gob.mx/covid-19/
+es-005,gotículas,N,Las gotas respiratorias expelidas por alguien al toser y estornudar.,,,,https://coronavirus.gob.mx/covid-19/
+es-006,tratamiento,N,Conjunto de medios que se emplean para curar o aliviar una enfermedad.,,,es-004,https://coronavirus.gob.mx/covid-19/
+es-007,sana distancia,N,Significa que toda la población se mantenga en un aislamiento preventivo con el objetivo de evitar la propagación del coronavirus. Estar almenos a dos brazos de distancia de las personas.,"de-020, fi-043",es-030,,https://coronavirus.gob.mx/covid-19/
+es-008,asintomático,Adj,Que no presenta síntomas.,"de-006, fi-014",,,https://coronavirus.gob.mx/covid-19/
+es-009,"Semáforo de riesgo epidemiológico, Semáforo de riesgo epidémico, Semáforo COVID-19",N,Es un sistema de monitoreo para la regulación del uso del espacio público de acuerdo con el riesgo de contagio de COVID-19.,,,,https://coronavirus.gob.mx/semaforo/
+es-010,"Nivel Rojo, Riesgo Máximo",N,No salgas si no es estrictamente necesario.,,,,https://coronavirus.gob.mx/semaforo/
+es-011,"Nivel Naranja, Riesgo Alto",N,"Si puedes, quédate en casa.",fi-026,,,https://coronavirus.gob.mx/semaforo/
+es-012,"Nivel Amarillo, Riesgo Medio",N,Hay más actividades pero con precaución.,fi-027,,,https://coronavirus.gob.mx/semaforo/
+es-013,"Nivel Verde, Riesgo Bajo",N,Podemos salir pero con precaución y prevención.,fi-28,,,https://coronavirus.gob.mx/semaforo/
+es-014,Calculadora de complicación de salud por COVID -19,N,"Esta Calculadora te permite estimar tu probabilidad de agravamiento de 
+la enfermedad ante un posible contagio de COVID-19 y se basa en los 
+factores de riesgo que puedas presentar en estos momentos, indicándote 
+una probable ponderación.",,,,http://www.imss.gob.mx/covid-19/calculadora-complicaciones/
+es-015,vacuna,N,Se entiende por vacuna cualquier preparación destinada a generar inmunidad contra una enfermedad estimulando la producción de anticuerpos.,de-026,,,https://coronavirus.gob.mx/vacunacion-covid/
+es-016,antígeno,N,"Es una forma muerta o debilitada de un patógeno (por ejemplo, un virus o una bacteria) que prepara a nuestro organismo para reconocer y combatir una determinada enfermedad en el futuro.",,,,https://coronavirus.gob.mx/vacunacion-covid/
+es-017,adyuvantes,N,"Parte de una vacuna que ayudan a incrementar la respuesta de nuestras defensas y, así, facilitan la acción de las vacunas.",,,,https://coronavirus.gob.mx/vacunacion-covid/
+es-018,conservantes,N,Parte de una vacuna que garantiza que la vacuna mantiene su eficacia.,,,,https://coronavirus.gob.mx/vacunacion-covid/
+es-019,estabilizantes,N,Parte de una vacuna que la protege durante su transporte y almacenamiento.,,,,https://coronavirus.gob.mx/vacunacion-covid/
+es-020,anticuerpo,N,"Es una proteína producida por el sistema inmunitario del cuerpo cuando detecta microorganismos, llamados antígenos. Los ejemplos de antígenos abarcan patógenos (tales como bacterias, hongos, parásitos y virus), químicos, entre otros.",fi-017,,,https://coronavirus.gob.mx/vacunacion-covid/
+es-021,IRAG,N,La infección respiratoria aguda grave es el conjunto de signos y síntomas respiratorios que requiere de tratamiento en un ambiente hospitalario controlado para su resolución. ,,,es-002,https://coronavirus.gob.mx/wp-content/uploads/2020/10/SemaforoCOVID_Metodo.pdf
+es-022,ambulancia,N,"Unidad  Móvil,  aérea,  marítima  o  terrestre,  destinada  para  la atención médica prehospitalaria, diseñada y construida para proveer comodidad y seguridad en la atenciónmédica, la cual consta de una cabina para el operador de la ambulancia o piloto, copiloto y un compartimento destinado para la atencióndel paciente, personal, equipo médicoe insumos necesarios.",,es-023,,https://coronavirus.gob.mx/wp-content/uploads/2020/05/Guia_basica_sistemas_prehospitalarios_COVID19_2.pdf
+es-023,Atención médica prehospitalaria,N,"Atención  otorgada  al  paciente  cuya condición clínicase considera que pone en peligro la vida, un órganoo su función, con el fin de lograr   la limitación del daño y   su estabilización organico-funcional,   desde   los primeros  auxilios  hasta  la  llegada  y  entrega  a  un  establecimiento  para  la atención médica con  servicio  de  urgencias, así como  durante  el  traslado  entre  diferentes establecimientos a bordo de una ambulancia.",,,es-022,https://coronavirus.gob.mx/wp-content/uploads/2020/05/Guia_basica_sistemas_prehospitalarios_COVID19_2.pdf
+es-024,grupos de riesgo,N,"Personas de 60 años o más. Mujeres embarazadas. Niñas y niños menores de 5 años. Quienes padecen enfermedades inmunodepresivas, crónicas, cardiacas, pulmonares, renales, hepáticas, sanguíneas o metabólicas. Quienes padecen obesidad y sobrepeso.","de-023, fi-047",,,
+es-025,"aislamiento, cuarentena",N,"El aislamiento es una medida voluntaria: a nadie se le puede obligar, ni siquiera a los casos confirmados. Por fortuna, todos han aceptado la cuarentena para no diseminar la enfermedad. Hay muchos casos de personas que decidieron ponerse en cuarentena al comprobar que estuvieron cerca de alguien que se enfermó de COVID-19.","de-024, fi-029, fi-30, fi-31, fi-32",es-030,,
+es-026,"cubrebocas, cubreboca",N,"El cubreboca es una barrera útil para evitar que se expulsen las gotas de saliva que potencialmente estén contaminadas. El cubreboca se debe usar correctamente, sobre todo en lugares públicos cerrados en los que no se pueda mantener la sana distancia.","de-009, fi-041",es-030,,
+es-027,prueba rápida,N,"Análisis médico para detectar el COVID-19, con resultados en 10-15 minutos.",de-015,,,
+es-028,prueba PCR,N,"Es una prueba diagnóstica que permite detectar un fragmento del material genético de un patógeno. En este caso, permite detectar el SARS-COV-2.",de-014,,,
+es-029,(Estado de) Emergencia Sanitaria,N,"El Consejo de Salubridad General reconoció a dicha enfermedad como grave de atención prioritaria, así como en el Decreto por el que se declaran acciones extraordinarias en las regiones afectadas de todo el territorio nacional en materia de salubridad general para combatir la enfermedad grave de atención prioritaria generada por el virus SARS-CoV2 (COVID-19)","fi-033, de-029",,,https://www.dof.gob.mx/nota_detalle.php?codigo=5590745&fecha=30/03/2020
+es-030,Medidas de Prevención,N,Es el papel que juega cada uno para frenar al COVID-19. Son las siguientes: Lava tus manos con agua y jabón. Acude al médico solo en una urgencia. Tose o esturnuda en la parte interna de tu codo. No difundas noticias falsas.,,,"es-025, es-007, es-026",https://coronavirus.gob.mx/prevencion/
