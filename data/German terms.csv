@@ -1,4 +1,4 @@
-ID,synset,wordtype,definition,translations,hypernym,hyperonymy,website
+id,synset,wordtype,definition,translations,hypernym,hyponym,website
 de-001,AHA-Regel,(n),"acronym for rule for how to behave in general: Abstand halten, Hygieneregeln beachten und Alltagsmasken tragen.",,de-020,de-007,https://www.bundesregierung.de/breg-de/suche/spahn-zu-feiern-1777386
 de-003,COVID-19,(n),name of the disease caused by SARS-CoV-2,es-002,,,https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Steckbrief.html
 de-004,SARS-CoV-2,(n),SARS-CoV-2 (severe acute respiratory syndrome coronavirus type 2),es-001,,de-005,https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Steckbrief.html

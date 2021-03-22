@@ -1,4 +1,4 @@
-ID,Synset,Word type ,Definition,Translations,Hypernym,Hyponym
+id,synset,wordtype,definition,translations,hypernym,hyponym
 fi-002,käsi- ja yskimishygienia,(n),Hand and cough hygiene. The correct way to wash your hands and cough in order to stop the spread of COVID-19. This may be known as measures or rules in other languages. ,"de-025, de-021",fi-003,
 fi-003,hygieniasuositukset,(n),"Hygiene measures to tackle COVID-19 on an individual level: social distancing, hand and cough hygiene, recommendation to wear masks. All these measures are recommendations, whereas in other countries they could be measures or rules. ",de-020,fi-033,"fi-002, fi-043, fi-042"
 fi-004,rajoitukset,(n),"restrictions concerning the society, which may include closure of public establishments, curfew, social gathering rules, limit of free movement etc.",de-016,fi-033,

@@ -1,4 +1,4 @@
-ID,synset,wordtype,definition,translations,hypernym,hyperonymy,website
+id,synset,wordtype,definition,translations,hypernym,hyponym,website
 es-000,coronavirus,N,"Los coronavirus son una familia de virus que causan enfermedades (desde 
 el resfriado común hasta enfermedades respiratorias más graves) y 
 circulan entre humanos y animales.",,,es-001,https://coronavirus.gob.mx/covid-19/
